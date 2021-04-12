@@ -2,7 +2,7 @@ function back(){
     window.location="index.html";
 }
 function preload(){
-    loadImage("enter.jpg");
+    img=loadImage("enter.jpg");
 }
 img="";
 status="";
